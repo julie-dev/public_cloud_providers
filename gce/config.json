@@ -1,0 +1,8 @@
+{
+  "provider": {
+    "kind": "gce",
+    "project_id": "",
+    "zone": "",
+    "credential_file": ""
+  }
+}
